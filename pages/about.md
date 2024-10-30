@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/nav-menu.html sections="Description;Transcript;Links;Acknowledgments;References" %}
 
-## Description
+## Description of my site
 
 This is a brief description of the podcast episode - perhaps an introduction, teaser, or abstract.
 
